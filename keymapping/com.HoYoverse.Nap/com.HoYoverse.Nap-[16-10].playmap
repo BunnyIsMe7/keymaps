@@ -8,6 +8,21 @@
 	<array>
 		<dict>
 			<key>keyCode</key>
+			<integer>-1</integer>
+			<key>keyName</key>
+			<string>LMB</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>3.6450000000000022</real>
+				<key>xCoord</key>
+				<real>0.802334705988566</real>
+				<key>yCoord</key>
+				<real>0.7320280287000868</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
 			<integer>8</integer>
 			<key>keyName</key>
 			<string>E</string>
@@ -16,39 +31,39 @@
 				<key>size</key>
 				<real>2.9524500000000016</real>
 				<key>xCoord</key>
-				<real>0.8561240862917017</real>
+				<real>0.715983525911967</real>
 				<key>yCoord</key>
-				<real>0.8966878933376737</real>
+				<real>0.8173185136583117</real>
 			</dict>
 		</dict>
 		<dict>
 			<key>keyCode</key>
-			<integer>44</integer>
-			<key>keyName</key>
-			<string>Spc</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>3.2805000000000017</real>
-				<key>xCoord</key>
-				<real>0.9392650295186925</real>
-				<key>yCoord</key>
-				<real>0.8206985063906068</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>225</integer>
+			<integer>43</integer>
 			<key>keyName</key>
 			<string>Lshft</string>
 			<key>transform</key>
 			<dict>
 				<key>size</key>
+				<real>3.2805000000000017</real>
+				<key>xCoord</key>
+				<real>0.8842122236887614</real>
+				<key>yCoord</key>
+				<real>0.6450239252161096</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>21</integer>
+			<key>keyName</key>
+			<string>R</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
 				<real>2.9524500000000016</real>
 				<key>xCoord</key>
-				<real>0.9395847000899138</real>
+				<real>0.8812775691350301</real>
 				<key>yCoord</key>
-				<real>0.8978015513949924</real>
+				<real>0.8142698641176577</real>
 			</dict>
 		</dict>
 		<dict>
@@ -61,24 +76,9 @@
 				<key>size</key>
 				<real>3.2805000000000017</real>
 				<key>xCoord</key>
-				<real>0.9395683676225168</real>
+				<real>0.8846322456995647</real>
 				<key>yCoord</key>
-				<real>0.7421842948065862</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>30</integer>
-			<key>keyName</key>
-			<string>1</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>5.0</real>
-				<key>xCoord</key>
-				<real>0.24071928395165335</real>
-				<key>yCoord</key>
-				<real>0.8220922074494539</real>
+				<real>0.47350421481662314</real>
 			</dict>
 		</dict>
 		<dict>
@@ -89,11 +89,26 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.8039567738992196</real>
+				<real>0.829553214708964</real>
 				<key>yCoord</key>
-				<real>0.8456137306778518</real>
+				<real>0.8306150083188658</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>9</integer>
+			<key>keyName</key>
+			<string>F</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.8136705080668132</real>
+				<key>yCoord</key>
+				<real>0.40844264560275595</real>
 			</dict>
 		</dict>
 		<dict>
@@ -104,116 +119,26 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>4.050000000000002</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.06982448895772299</real>
+				<real>0.05838758150736491</real>
 				<key>yCoord</key>
-				<real>0.07827298906114366</real>
+				<real>0.08290894119827835</real>
 			</dict>
 		</dict>
 		<dict>
 			<key>keyCode</key>
-			<integer>6</integer>
+			<integer>30</integer>
 			<key>keyName</key>
-			<string>C</string>
+			<string>1</string>
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>2.952450000000001</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.6438598579830594</real>
+				<real>0.20509395599365235</real>
 				<key>yCoord</key>
-				<real>0.08057965879087095</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>60</integer>
-			<key>keyName</key>
-			<string>F3</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>2.952450000000001</real>
-				<key>xCoord</key>
-				<real>0.8214947735821759</real>
-				<key>yCoord</key>
-				<real>0.07943430300112124</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>59</integer>
-			<key>keyName</key>
-			<string>F2</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>2.952450000000001</real>
-				<key>xCoord</key>
-				<real>0.7645381221064815</real>
-				<key>yCoord</key>
-				<real>0.07796947337962963</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>58</integer>
-			<key>keyName</key>
-			<string>F1</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>2.952450000000001</real>
-				<key>xCoord</key>
-				<real>0.7073224076518306</real>
-				<key>yCoord</key>
-				<real>0.07720390602394386</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>61</integer>
-			<key>keyName</key>
-			<string>F4</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>3.2804999999999995</real>
-				<key>xCoord</key>
-				<real>0.8790712709780093</real>
-				<key>yCoord</key>
-				<real>0.07797309027777778</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>62</integer>
-			<key>keyName</key>
-			<string>F5</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>5.0</real>
-				<key>xCoord</key>
-				<real>0.9381013093171297</real>
-				<key>yCoord</key>
-				<real>0.07609592013888888</real>
-			</dict>
-		</dict>
-		<dict>
-			<key>keyCode</key>
-			<integer>-1</integer>
-			<key>keyName</key>
-			<string>LMB</string>
-			<key>transform</key>
-			<dict>
-				<key>size</key>
-				<real>4.500000000000002</real>
-				<key>xCoord</key>
-				<real>0.8977635740350793</real>
-				<key>yCoord</key>
-				<real>0.8588396395930538</real>
+				<real>0.8536803916648581</real>
 			</dict>
 		</dict>
 	</array>
@@ -233,11 +158,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>14.580000000000013</real>
+				<real>20.00000000000003</real>
 				<key>xCoord</key>
-				<real>0.09750307489324496</real>
+				<real>0.19647298177083334</real>
 				<key>yCoord</key>
-				<real>0.8484517803898564</real>
+				<real>0.7096723909731263</real>
 			</dict>
 			<key>upKeyCode</key>
 			<integer>26</integer>
@@ -251,11 +176,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>42.337719521075734</real>
+				<real>25</real>
 				<key>xCoord</key>
-				<real>0.4474218871858385</real>
+				<real>0.5048204183578491</real>
 				<key>yCoord</key>
-				<real>0.48299458468401874</real>
+				<real>0.32763791967321326</real>
 			</dict>
 		</dict>
 	</array>
